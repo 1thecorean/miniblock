@@ -8,7 +8,6 @@ class BlockChain:
         genesis_block.bits = 5 #초기 난이도
         self.chain.append(genesis_block)
 
-이것은 테스트
 
 
 #pip install flask
